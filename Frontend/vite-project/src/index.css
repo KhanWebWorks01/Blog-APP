@@ -1,0 +1,26 @@
+.navbar{
+    background-color:#241ee1;
+    padding:10px;
+}
+
+.items{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+.items:hover{
+    background-color: black;
+    color:white
+}
+
+.right{
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left{
+    background-color: #605aa5;
+    text-decoration: none;
+}
